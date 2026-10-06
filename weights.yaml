@@ -1,0 +1,97 @@
+files:
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/added_tokens.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/added_tokens.json
+    sha256: 2351a6919c40fdaa47f99fc46dae8636103653ba6b4e70ad1946d45bbcf97c11
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/chat_template.jinja
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/chat_template.jinja
+    sha256: a0bc6f6fc7a29a80017a433e8f03a1cc1236e838a944a2d034295a60c4f2fddb
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/config.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/config.json
+    sha256: 0d2739c5c8e4025fb38522a306d26e5979e96272f34e6de0ee0fa534f349940c
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/generation_config.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/generation_config.json
+    sha256: 0e2ceefb956c2283d64b1dae9ed23ee769898156b6c550db4ddb122ff0d67d5d
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/merges.txt
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/merges.txt
+    sha256: 8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/model.safetensors
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/model.safetensors
+    sha256: 56360bc5cc9b9f54d4fa9a2cc1c9c56ca017aebe52d7e615900ba3d12db22976
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/preprocessor_config.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/preprocessor_config.json
+    sha256: 29d27c703e5186231bc2ca07a876738a9f67ef5cb300ea2f72cf4048170d090d
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/special_tokens_map.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/special_tokens_map.json
+    sha256: c2ed7c65623c393ca83edeca1aaac2f46533ac7e8c12eef934902e5d507e619f
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/tokenizer.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/tokenizer.json
+    sha256: f1af02706374dba3446428a64e012321dc2413b78f7a867f75decef101d1ccaa
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/tokenizer_config.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/tokenizer_config.json
+    sha256: 37df7cf0d03541a61d15207e71dea17e72f5b89118055633efa27e8c6b3b56b3
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2-VL-SAFE-GRPO/vocab.json
+    dest: model/SocialNav-Qwen2-VL-SAFE-GRPO/vocab.json
+    sha256: ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/added_tokens.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/added_tokens.json
+    sha256: 9627ffe1755363c12c7cee128d1022f16d0e5b191c31cbae0d1f24dbc4883158
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/chat_template.jinja
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/chat_template.jinja
+    sha256: a0bc6f6fc7a29a80017a433e8f03a1cc1236e838a944a2d034295a60c4f2fddb
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/config.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/config.json
+    sha256: fbd37fa85595aec3a4fe972733f575fdafc7b3e391499d175c121640172c77df
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/generation_config.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/generation_config.json
+    sha256: ab4c38cc7bd30c21bd70631dd67f8138830d06685f1858865b6b0436262e660c
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/merges.txt
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/merges.txt
+    sha256: 8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/model-00001-of-00002.safetensors
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/model-00001-of-00002.safetensors
+    sha256: 268ab090cdb68476c19d258409554bdce31afd6bd9454701467b3be4b2f1f237
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/model-00002-of-00002.safetensors
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/model-00002-of-00002.safetensors
+    sha256: 3dd23ee3ce57534dd0c96bdfc6a8896ebb6e0b88b8df13ce2336d13a66a03d33
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/model.safetensors.index.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/model.safetensors.index.json
+    sha256: 67a1845aee238beb3188917903c9b466733ffe026e44b1ac6606118868e247e5
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/preprocessor_config.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/preprocessor_config.json
+    sha256: 549c158011407dfb750d9ec578047cf76f5bfe365cd0aa069a50137d3f98d9dd
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/special_tokens_map.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/special_tokens_map.json
+    sha256: c2ed7c65623c393ca83edeca1aaac2f46533ac7e8c12eef934902e5d507e619f
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/tokenizer.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/tokenizer.json
+    sha256: 5db06f405a3647e1ac28f333ef2e440fa18f818a3062deab109556971552f4a2
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/tokenizer_config.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/tokenizer_config.json
+    sha256: 2b93022238449ba45eef372bc7a58e1413be1c042f99d2815114c81f8b8c1d6b
+  - repo: arena-rosnav/socialnav
+    filename: SocialNav-Qwen2.5-VL-SAFE-GRPO/vocab.json
+    dest: model/SocialNav-Qwen2.5-VL-SAFE-GRPO/vocab.json
+    sha256: ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910
